@@ -9,14 +9,14 @@ I specialize in **MLOps, distributed computing, and cloud-native solutions** to 
 | Category | Key Technologies | Specialized Areas |
 | :--- | :--- | :--- |
 | **MLOps & AI Infra** | `MLflow` · `FastAPI` · `Docker` · `Kubernetes (AKS)` · `GitHub Actions` | End-to-end ML Model Lifecycle Management. |
-| **Big Data & Pipelines** | **PySpark**, **Apache Spark**, **Airflow**, **Apache Kafka**, **Delta Lake** | High-volume data ingestion, custom ETL, and workflow orchestration. |
-| **AI/ML/GenAI** | **PyTorch**, **Transformers**, **scikit-learn**, **LangChain** | RAG-based LLMs, NLP, Computer Vision, Time-Series Modeling. |
-| **Cloud** | **Azure Databricks**, **Azure ML**, **Azure** Ecosystem | Production deployment and infrastructure scaling. |
+| **Big Data & Pipelines** | `PySpark` · `Apache Spark` · `Airflow` · `Apache Kafka` · `Delta Lake` | High-volume data ingestion, custom ETL, and workflow orchestration. |
+| **AI/ML/GenAI** | `PyTorch` · `Transformers` · `scikit-learn` · `LangChain` | RAG-based LLMs, NLP, Computer Vision, Time-Series Modeling. |
+| **Cloud** | `Azure Databricks` · `Azure ML` · `Azure Ecosystem` | Production deployment and infrastructure scaling. |
 
 ---
 ### 🌐 Let's Connect  
 **LinkedIn:**  🔗 [Supraja Aravamudhan](https://www.linkedin.com/in/suprajaaravamudhan/)  
-**Email:**  📧 [aupraja85@gmail.com](mailto:aupraja85@gmail.com)
+**Email   :**  📧 [aupraja85@gmail.com](mailto:aupraja85@gmail.com)
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asupraja3&label=Profile%20views&color=0e75b6&style=flat" alt="asupraja3" /> </p>
