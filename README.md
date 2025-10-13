@@ -5,7 +5,6 @@ I am an **AI/ML Engineer** with 5+ years of experience specializing in designing
 I specialize in **MLOps, distributed computing, and cloud-native solutions** to transform prototypes into scalable, business-critical applications.
 
 ---
-
 ### 💻 Technical Stack & Expertise
 | Category | Key Technologies | Specialized Areas |
 | :--- | :--- | :--- |
@@ -15,10 +14,11 @@ I specialize in **MLOps, distributed computing, and cloud-native solutions** to 
 | **Cloud** | **Azure Databricks**, **Azure ML**, **Azure** Ecosystem | Production deployment and infrastructure scaling. |
 
 ---
-
 ### 🌐 Let's Connect
-| **LinkedIn** | [Supraja Aravamudhan](https://www.linkedin.com/in/suprajaaravamudhan/) |
-| **Email** | [aupraja85@gmail.com](mailto:asupraja85@gmail.com) |
+**LinkedIn:**  
+🔗 [Supraja Aravamudhan](https://www.linkedin.com/in/suprajaaravamudhan/)
+**Email:**  
+📧 [aupraja85@gmail.com](mailto:aupraja85@gmail.com)
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asupraja3&label=Profile%20views&color=0e75b6&style=flat" alt="asupraja3" /> </p>
