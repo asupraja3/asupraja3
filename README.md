@@ -15,12 +15,8 @@ I specialize in **MLOps, distributed computing, and cloud-native solutions** to 
 
 ---
 ### 🌐 Let's Connect  
-
-**LinkedIn:**  
-🔗 [Supraja Aravamudhan](https://www.linkedin.com/in/suprajaaravamudhan/)  
-
-**Email:**  
-📧 [aupraja85@gmail.com](mailto:aupraja85@gmail.com)
+**LinkedIn:**  🔗 [Supraja Aravamudhan](https://www.linkedin.com/in/suprajaaravamudhan/)  
+**Email:**  📧 [aupraja85@gmail.com](mailto:aupraja85@gmail.com)
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asupraja3&label=Profile%20views&color=0e75b6&style=flat" alt="asupraja3" /> </p>
