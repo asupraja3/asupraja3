@@ -1,16 +1,51 @@
-## Hi there 👋
+# 🤖 [Supraja Aravamudhan]: AI/ML Engineer | MLOps Specialist | Python Development 
 
-<!--
-**asupraja3/asupraja3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub Profile Views Counter"/>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 About Me
+
+I am an **AI/ML Engineer** with 5+ years of experience specializing in designing and deploying **robust machine learning and Generative AI pipelines**. My focus is on **productionizing AI models** for high-stakes environments, specifically across **finance**, healthcare, and enterprise analytics.
+
+I specialize in **MLOps, distributed computing, and cloud-native solutions** to transform prototypes into scalable, business-critical applications.
+
+---
+
+### 💼 Professional Experience & Core Contributions
+
+| Company | Focus Area | Key Achievements |
+| :--- | :--- | :--- |
+| **Citadel (Finance)** | **Distributed ML & Risk Modeling** | Optimized **risk modeling accuracy** using **Apache Spark** and **Airflow** on Azure Databricks. Prototyped a **LangChain-based RAG system** for enterprise knowledge access. |
+| **EY (Consulting)** | **Intelligent Automation** | Developed modular **Python microservices** for intelligent order automation. Deployed scalable models on **Azure ML and AKS** to streamline deployment and reporting. |
+| **Infosys** | **Data Quality & ETL** | Built data validation engines and automated QA reporting for manufacturing. Enhanced data quality and reduced SLA breaches through custom **Python/SQL ETL pipelines**. |
+
+---
+
+### 💻 Technical Stack & Expertise
+
+| Category | Key Technologies | Specialized Areas |
+| :--- | :--- | :--- |
+| **MLOps & AI Infra** | **MLflow**, **FastAPI**, **Docker**, **Kubernetes (AKS)**, GitHub Actions | End-to-end ML Model Lifecycle Management. |
+| **Big Data & Pipelines** | **PySpark**, **Apache Spark**, **Airflow**, **Apache Kafka**, **Delta Lake** | High-volume data ingestion, custom ETL, and workflow orchestration. |
+| **AI/ML/GenAI** | **PyTorch**, **Transformers**, **scikit-learn**, **LangChain** | **RAG-based LLMs**, **NLP**, Computer Vision, Time-Series Modeling. |
+| **Cloud** | **Azure Databricks**, **Azure ML**, **Azure** Ecosystem | Production deployment and infrastructure scaling. |
+
+---
+
+### 🌐 Let's Connect
+
+| Platform | Link |
+| :--- | :--- |
+| **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/suprajaaravamudhan/) |
+| **Email** | [Email Me](mailto:asupraja85@gmail.com) |
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dark" alt="Top Languages"/>
+</div>
