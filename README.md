@@ -14,9 +14,11 @@ I specialize in **MLOps, distributed computing, and cloud-native solutions** to 
 | **Cloud** | **Azure Databricks**, **Azure ML**, **Azure** Ecosystem | Production deployment and infrastructure scaling. |
 
 ---
-### 🌐 Let's Connect
+### 🌐 Let's Connect  
+
 **LinkedIn:**  
-🔗 [Supraja Aravamudhan](https://www.linkedin.com/in/suprajaaravamudhan/)
+🔗 [Supraja Aravamudhan](https://www.linkedin.com/in/suprajaaravamudhan/)  
+
 **Email:**  
 📧 [aupraja85@gmail.com](mailto:aupraja85@gmail.com)
 
