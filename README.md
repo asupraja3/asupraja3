@@ -1,21 +1,11 @@
-# 🤖 [Supraja Aravamudhan]: AI/ML Engineer | MLOps Specialist | Python Development 
+# Supraja Aravamudhan: AI/ML Engineer | MLOps Specialist | Python Development 
 ---
 
 ### 👋 About Me
 
-I am an **AI/ML Engineer** with 5+ years of experience specializing in designing and deploying **robust machine learning and Generative AI pipelines**. My focus is on **productionizing AI models** for high-stakes environments, specifically across **finance**, healthcare, and enterprise analytics.
+I am an **AI/ML Engineer** with 5+ years of experience specializing in designing and deploying **robust machine learning and Generative AI pipelines**. My focus is on **productionizing AI models** for high-stakes environments, specifically across finance, healthcare, and enterprise analytics.
 
 I specialize in **MLOps, distributed computing, and cloud-native solutions** to transform prototypes into scalable, business-critical applications.
-
----
-
-### 💼 Professional Experience & Core Contributions
-
-| Company | Focus Area | Key Achievements |
-| :--- | :--- | :--- |
-| **Citadel (Finance)** | **Distributed ML & Risk Modeling** | Optimized **risk modeling accuracy** using **Apache Spark** and **Airflow** on Azure Databricks. Prototyped a **LangChain-based RAG system** for enterprise knowledge access. |
-| **EY (Consulting)** | **Intelligent Automation** | Developed modular **Python microservices** for intelligent order automation. Deployed scalable models on **Azure ML and AKS** to streamline deployment and reporting. |
-| **Infosys** | **Data Quality & ETL** | Built data validation engines and automated QA reporting for manufacturing. Enhanced data quality and reduced SLA breaches through custom **Python/SQL ETL pipelines**. |
 
 ---
 
@@ -25,7 +15,7 @@ I specialize in **MLOps, distributed computing, and cloud-native solutions** to 
 | :--- | :--- | :--- |
 | **MLOps & AI Infra** | **MLflow**, **FastAPI**, **Docker**, **Kubernetes (AKS)**, GitHub Actions | End-to-end ML Model Lifecycle Management. |
 | **Big Data & Pipelines** | **PySpark**, **Apache Spark**, **Airflow**, **Apache Kafka**, **Delta Lake** | High-volume data ingestion, custom ETL, and workflow orchestration. |
-| **AI/ML/GenAI** | **PyTorch**, **Transformers**, **scikit-learn**, **LangChain** | **RAG-based LLMs**, **NLP**, Computer Vision, Time-Series Modeling. |
+| **AI/ML/GenAI** | **PyTorch**, **Transformers**, **scikit-learn**, **LangChain** | RAG-based LLMs, NLP, Computer Vision, Time-Series Modeling. |
 | **Cloud** | **Azure Databricks**, **Azure ML**, **Azure** Ecosystem | Production deployment and infrastructure scaling. |
 
 ---
@@ -34,8 +24,8 @@ I specialize in **MLOps, distributed computing, and cloud-native solutions** to 
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/suprajaaravamudhan/) |
-| **Email** | [Email Me](mailto:asupraja85@gmail.com) |
+| **LinkedIn** | [Connect on LinkedIn- Supraja Aravamudhan](https://www.linkedin.com/in/suprajaaravamudhan/) |
+| **Email** | [Email Me: aupraja85@gmail.com](mailto:asupraja85@gmail.com) |
 
 <br>
 
