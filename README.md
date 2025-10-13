@@ -27,6 +27,4 @@ I specialize in **MLOps, distributed computing, and cloud-native solutions** to 
 | **Email** | [Email Me: aupraja85@gmail.com](mailto:asupraja85@gmail.com) |
 
 ---
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=asupraja3&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub Profile Views Counter"/>
-</div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub Profile Views Counter"/> &nbsp; [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL) &nbsp; [![Follow on X](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR-X-HANDLE) &nbsp; [![Email Me](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-PROFESSIONAL-EMAIL) &nbsp; [![My Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firebase&logoColor=white)](YOUR-PORTFOLIO-URL) </div>
