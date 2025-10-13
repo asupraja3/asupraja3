@@ -1,9 +1,4 @@
 # 🤖 [Supraja Aravamudhan]: AI/ML Engineer | MLOps Specialist | Python Development 
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub Profile Views Counter"/>
-</div>
-
 ---
 
 ### 👋 About Me
@@ -45,7 +40,5 @@ I specialize in **MLOps, distributed computing, and cloud-native solutions** to 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub Profile Views Counter"/>
 </div>
