@@ -1,5 +1,4 @@
 ## Supraja Aravamudhan: AI/ML Engineer | MLOps Specialist | Python Development 
----
 
 ### 👋 About Me
 
@@ -28,7 +27,7 @@ I specialize in **MLOps, distributed computing, and cloud-native solutions** to 
 | **Email** | [Email Me: aupraja85@gmail.com](mailto:asupraja85@gmail.com) |
 
 <br>
-
+---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub Profile Views Counter"/>
 </div>
