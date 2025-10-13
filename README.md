@@ -1,4 +1,4 @@
-# Supraja Aravamudhan: AI/ML Engineer | MLOps Specialist | Python Development 
+## Supraja Aravamudhan: AI/ML Engineer | MLOps Specialist | Python Development 
 ---
 
 ### 👋 About Me
@@ -24,7 +24,7 @@ I specialize in **MLOps, distributed computing, and cloud-native solutions** to 
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [Connect on LinkedIn- Supraja Aravamudhan](https://www.linkedin.com/in/suprajaaravamudhan/) |
+| **LinkedIn** | [Connect on LinkedIn: Supraja Aravamudhan](https://www.linkedin.com/in/suprajaaravamudhan/) |
 | **Email** | [Email Me: aupraja85@gmail.com](mailto:asupraja85@gmail.com) |
 
 <br>
