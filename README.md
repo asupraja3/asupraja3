@@ -28,6 +28,7 @@ I specialize in **MLOps, distributed computing, and cloud-native solutions** to 
 
 <br>
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asupraja3&label=Profile%20views&color=0e75b6&style=flat" alt="asupraja3" /> </p>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub Profile Views Counter"/>
 </div>
