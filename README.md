@@ -14,4 +14,4 @@ I specialize in **MLOps, distributed computing, and cloud-native solutions** to 
 | **Cloud** | `Azure Databricks` · `Azure ML` · `Azure Ecosystem` | Production deployment and infrastructure scaling. |
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asupraja3&label=Profile%20views&color=0e75b6&style=flat" alt="asupraja3" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=asupraja3&label=Profile%20views&color=0e75b6&style=flat" alt="asupraja3" /> </p>
