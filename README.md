@@ -1,4 +1,4 @@
-## Supraja Aravamudhan: AI/ML Engineer | MLOps Specialist | Python Development 
+## Supraja Aravamudhan: AI/ML Engineer | MLOps Specialist | GenAI 
 
 I am an **AI/ML Engineer** with 5+ years of experience specializing in designing and deploying **robust machine learning and Generative AI pipelines**. My focus is on **productionizing AI models** for high-stakes environments, specifically across finance, healthcare, and enterprise analytics.
 
