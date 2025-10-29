@@ -14,6 +14,6 @@ I specialize in **MLOps, distributed computing, and cloud-native solutions** to 
 | **Cloud** | `Azure Databricks` · `Azure ML` · `Azure Ecosystem` | Production deployment and infrastructure scaling. |
 
 ---
-<p align="right"> <img src="https://hackatime-badge.hackclub.com/U091WBXJ59C/nlp-finance-forecast"/>
+<p align="right"> <img src="https://hackatime-badge.hackclub.com/U091WBXJ59C/nlp-finance-forecast?color=darkgreen"/>
  <img src="https://komarev.com/ghpvc/?username=asupraja3&label=Profile%20views&color=0e75b6&style=flat" alt="asupraja3" />
 </p>
