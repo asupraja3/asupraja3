@@ -8,7 +8,7 @@ I specialize in **MLOps, distributed computing, and cloud-native solutions** to 
 ### 💻 Technical Stack & Expertise
 | Category | Key Technologies | Specialized Areas |
 | :--- | :--- | :--- |
-| **MLOps & AI Infra** | `MLflow` · `FastAPI` · `Docker` · `Kubernetes (AKS)` · `GitHub Actions` | End-to-end ML Model Lifecycle Management. |
+| **MLOps & AI Infra** | `FastAPI` · `Docker` · `Kubernetes (AKS)` · `MLflow` . `GitHub Actions` | End-to-end ML Model Lifecycle Management. |
 | **Big Data & Pipelines** | `PySpark` · `Apache Spark` · `Airflow` · `Apache Kafka` · `Delta Lake` | High-volume data ingestion, custom ETL, and workflow orchestration. |
 | **AI/ML/GenAI** | `PyTorch` · `Transformers` · `scikit-learn` · `LangChain` | RAG-based LLMs, NLP, Computer Vision, Time-Series Modeling. |
 | **Cloud** | `Azure Databricks` · `Azure ML` · `Azure Ecosystem` | Production deployment and infrastructure scaling. |
